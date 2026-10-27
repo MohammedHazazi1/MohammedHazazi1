@@ -1,16 +1,18 @@
-## Hi there 👋
+# Mohammed Hazazi
 
-<!--
-**MohammedHazazi1/MohammedHazazi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity • Software Development • Entrepreneurship
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I enjoy learning across different fields and turning ideas into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Based in Rockford, Illinois.
+- Interested in cybersecurity and building useful applications.
+- Passionate about entrepreneurship and continuous learning.
+
+## Currently Learning
+- C# and ASP.NET Core MVC
+- Database development with Entity Framework Core
+- Git and GitHub
+
+## My Goals
+Build practical projects, strengthen my technical skills, and combine technology with business.
